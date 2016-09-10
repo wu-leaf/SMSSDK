@@ -1,0 +1,1 @@
+The third party message authentication SDK
